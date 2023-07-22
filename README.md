@@ -4,3 +4,4 @@
 ![image](https://github.com/mango606/knu-fe-sw-career-up/assets/75062110/ac7c6ef1-f731-4ec6-b24b-7f091c6c60f8)
 # [DAY2] 계산기
 ![image](https://github.com/mango606/knu-fe-sw-career-up/assets/75062110/bfa0d775-3adc-4301-b1f5-d406d33dba88)
+### 이후 과제들은 fork 하고 pr 해서 진행함.
